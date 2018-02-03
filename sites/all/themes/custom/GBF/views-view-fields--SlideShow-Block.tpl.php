@@ -1,0 +1,1 @@
+<li><img src="<?php echo $fields['field_slideshow_image_fid']->content ?>" align="left" width="556" height="221" /></li>

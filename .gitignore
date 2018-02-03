@@ -1,0 +1,33 @@
+# .gitignore for GBF
+
+# Ignore these folders - PRE GIT
+bu_20aug
+development
+GBFfinancials
+
+# Ignore these files anywhere
+*.log
+error_log
+license.txt
+*.psd
+.DS_store
+
+
+# WordPress Files
+blog/readme.html
+blog/wp-config.php
+blog/wp-content/advanced-cache.php
+blog/wp-content/backup-db/
+blog/wp-content/backups/
+blog/wp-content/blogs.dir/
+blog/wp-content/cache/
+blog/wp-content/upgrade/
+blog/wp-content/wp-cache-config.php
+blog/wp-content/plugins/hello.php
+
+# GBF Shop
+gbfshop/config/settings.inc.php
+gbfshop/docs/dev
+gbfshop/docs/csv_import
+
+sites/default/settings.php
